@@ -1,3 +1,4 @@
+
 .about-container {
     display: flex;
     text-align: center;
@@ -16,6 +17,7 @@
     flex: auto;
     background: var(--background);
     box-shadow: var(--box-shadow);
+    cursor: pointer;
   }
   
   img {

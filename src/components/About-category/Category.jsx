@@ -1,9 +1,10 @@
-import React from "react"
+import React from 'react'
 
 const Category = ({data})=>{
  
     return (
-        <React.Fragment>
+
+        <React.Fragment >
         {
             data.map((item , indx) =>{
                 return(
@@ -15,6 +16,7 @@ const Category = ({data})=>{
             })
         }
         </React.Fragment>
+      
     )
 }
 

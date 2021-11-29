@@ -3,7 +3,7 @@ import './Projects.css' ;
 const Projects = ()=>{
     return (
         <div>
-        Projects 
+            <h1> Some text to test </h1> 
         </div>
     )
 }
