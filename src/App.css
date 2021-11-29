@@ -17,3 +17,9 @@ section {
     font-weight: normal;
     color: var(--on-background-alt);
   }
+
+  @media (max-width: 800px) {
+   h1{
+     font-size: 50px !important;
+   }
+  }

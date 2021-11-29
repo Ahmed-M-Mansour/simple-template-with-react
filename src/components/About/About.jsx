@@ -8,35 +8,35 @@ const About = ()=>{
                 {
                     key: 'web' , 
                     title : 'Web Development' , 
-                    imgUrl: `http://localhost:3000/images/web.svg`
+                    imgUrl: `./images/web.svg`
             } , 
             {
                      key: 'Data' , 
                     title : 'Data Scince' , 
-                    imgUrl: `http://localhost:3000/images/data.svg`
+                    imgUrl: `./images/data.svg`
             } , 
             {
                      key: 'Marketing' , 
                     title : 'Digital Marketing' , 
-                    imgUrl: `http://localhost:3000/images/marketing.svg`
+                    imgUrl: `./images/marketing.svg`
             }
             , 
             {
                      key: 'ML' , 
                     title : 'Machine Learning  ' , 
-                    imgUrl: `http://localhost:3000/images/ml.svg`
+                    imgUrl: `./images/ml.svg`
             }
             , 
             {
                      key: 'ui' , 
                     title : 'UI UX Design' , 
-                    imgUrl: `http://localhost:3000/images/Design.svg`
+                    imgUrl: `./images/Design.svg`
             }
             , 
             {
                      key: 'DevOps' , 
                     title : 'DevOps' , 
-                    imgUrl: `http://localhost:3000/images/DevOps.svg`
+                    imgUrl: `./images/DevOps.svg`
             }
         ]
     }
