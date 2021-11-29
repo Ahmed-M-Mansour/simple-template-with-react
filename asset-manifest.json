@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simple-template-with-react/static/css/main.818aa6bf.chunk.css",
+    "main.js": "/simple-template-with-react/static/js/main.7fc21974.chunk.js",
+    "main.js.map": "/simple-template-with-react/static/js/main.7fc21974.chunk.js.map",
+    "runtime-main.js": "/simple-template-with-react/static/js/runtime-main.e30237f1.js",
+    "runtime-main.js.map": "/simple-template-with-react/static/js/runtime-main.e30237f1.js.map",
+    "static/js/2.607af023.chunk.js": "/simple-template-with-react/static/js/2.607af023.chunk.js",
+    "static/js/2.607af023.chunk.js.map": "/simple-template-with-react/static/js/2.607af023.chunk.js.map",
+    "static/js/3.40f74df4.chunk.js": "/simple-template-with-react/static/js/3.40f74df4.chunk.js",
+    "static/js/3.40f74df4.chunk.js.map": "/simple-template-with-react/static/js/3.40f74df4.chunk.js.map",
+    "index.html": "/simple-template-with-react/index.html",
+    "static/css/main.818aa6bf.chunk.css.map": "/simple-template-with-react/static/css/main.818aa6bf.chunk.css.map",
+    "static/js/2.607af023.chunk.js.LICENSE.txt": "/simple-template-with-react/static/js/2.607af023.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e30237f1.js",
+    "static/js/2.607af023.chunk.js",
+    "static/css/main.818aa6bf.chunk.css",
+    "static/js/main.7fc21974.chunk.js"
+  ]
+}
