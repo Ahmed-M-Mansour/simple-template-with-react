@@ -1,0 +1,36 @@
+.about-container {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 90vw;
+  }
+  
+  .image-container {
+    border: 1px solid var(--secondary-color);
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-right: 25px;
+    margin-bottom: 50px;
+    width: auto;
+    flex: auto;
+    background: var(--background);
+    box-shadow: var(--box-shadow);
+  }
+  
+  img {
+    height: 300px;
+    width: 300px;
+  }
+  h1{
+    margin-bottom: 20px;
+  }
+
+  @media (max-width: 800px) {
+    
+
+    .about-container {
+      
+      flex-direction: column;
+    }
+  }
